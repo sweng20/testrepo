@@ -1,9 +1,10 @@
 # Demo file
-Some text here
+This is a demo file
 
-added another line
-add another line
 
 ## Header 1
 lore ipusm ....
 and some other text ....
+
+add some new lines here
+and here
