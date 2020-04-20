@@ -1,6 +1,3 @@
 # Demo file
-Some text here
 
-## Header 1
-lore ipusm ....
-and some other text ....
+
